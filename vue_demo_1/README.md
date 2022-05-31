@@ -1,7 +1,5 @@
 # vue_demo_1
 
-纯粹练手项目
-
 ## Project setup
 ```
 npm install
